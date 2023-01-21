@@ -1,0 +1,1 @@
+for /l %%x in (1, 1, 16) do start a.exe
